@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi, I'm Itika Mittal 👋
 
-<!--
-**itika-mittal/itika-mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm currently pursuing my Master of Computer Applications (MCA) and building my foundation in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning by building projects and solving programming problems.
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 MCA Student at Jagan Institute of Management Studies (JIMS)
+- 💻 Currently learning Java, C++ and Python
+- 🧠 Practicing Data Structures & Algorithms
+- 🗄️ Learning DBMS and SQL
+- 🌱 Exploring Software Development
+- 🚀 Interested in building practical projects
+- 📚 Currently improving my problem-solving and programming skills
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- C++
+- Java
+
+### Core Concepts
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- DBMS
+- SQL
+- Operating Systems
+- Computer Networks
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Java Programming
+Collection of Java programs covering programming fundamentals and OOP concepts.
+
+### 📌 C++ DSA
+Practice problems covering arrays, recursion, searching, sorting, linked lists and more.
+
+### 📌 DBMS Project
+Academic project demonstrating database design, SQL queries and database concepts.
+
+---
+
+## 📚 Currently Learning
+
+- Python
+- Data Structures & Algorithms using C++
+- SQL
+- Git & GitHub
+- Software Development
+
+---
+
+## 🎯 2026 Goals
+
+- Build 5+ meaningful projects
+- Strengthen DSA fundamentals
+- Learn Java development
+- Contribute to open-source projects
+- Build a strong software development portfolio
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/itika-mittal-13a02a22b/
+- Email: itika.mittal03@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
